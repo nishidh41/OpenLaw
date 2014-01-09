@@ -1,4 +1,4 @@
-openlaw.github.io
+OpenLaw
 =================
 
 Open-soure law
